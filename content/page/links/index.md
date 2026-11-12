@@ -20,7 +20,7 @@ title = 'Links'
   description = 'You can also check out the code for this website on my GitHub. It’s not perfect nor professional, but you’re welcome to look through it or use it as a reference.'
   image = 'github-logo.png'
   title = 'My Github'
-  website = 'https://github.com/SinzyYin/sinzyyin.github.io'
+  website = 'https://github.com/sinyinyap/sinyinyap.github.io'
 
 [menu]
   [menu.main]

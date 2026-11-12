@@ -10,7 +10,7 @@
 [[social]]
     identifier = "github"
     name = "GitHub"
-    url = "https://github.com/SinzyYin"
+    url = "https://github.com/sinyinyap"
 
     [social.params]
        icon = "brand-github"
